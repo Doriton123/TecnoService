@@ -1,0 +1,13 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "overlayscrollbars/styles/overlayscrollbars.css";
+@import "admin-lte/dist/css/adminlte.min.css";
+
+/* Estilos personalizados de TecnoService */
+
+.brand-text {
+    font-weight: 600;
+}
+
+.content-wrapper {
+    min-height: 100vh;
+}
